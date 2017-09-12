@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A524FCEE1F6746B30040AC81 /* RGBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A524FCEC1F6746B30040AC81 /* RGBViewController.swift */; };
+		A524FCEF1F6746B30040AC81 /* RGBViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A524FCED1F6746B30040AC81 /* RGBViewController.xib */; };
 		A55FF2081F5A21BA00B0B6DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */; };
 		A55FF20A1F5A21BA00B0B6DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55FF2091F5A21BA00B0B6DF /* ViewController.swift */; };
 		A55FF20D1F5A21BA00B0B6DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A55FF20B1F5A21BA00B0B6DF /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A524FCEC1F6746B30040AC81 /* RGBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RGBViewController.swift; sourceTree = "<group>"; };
+		A524FCED1F6746B30040AC81 /* RGBViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RGBViewController.xib; sourceTree = "<group>"; };
 		A55FF2041F5A21BA00B0B6DF /* InstaEdge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaEdge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A55FF2091F5A21BA00B0B6DF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 				A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */,
 				A55FF2091F5A21BA00B0B6DF /* ViewController.swift */,
 				A55FF20B1F5A21BA00B0B6DF /* Main.storyboard */,
+				A524FCEC1F6746B30040AC81 /* RGBViewController.swift */,
+				A524FCED1F6746B30040AC81 /* RGBViewController.xib */,
 				A55FF20E1F5A21BA00B0B6DF /* Assets.xcassets */,
 				A55FF2101F5A21BA00B0B6DF /* LaunchScreen.storyboard */,
 				A55FF2131F5A21BA00B0B6DF /* Info.plist */,
@@ -235,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A524FCEF1F6746B30040AC81 /* RGBViewController.xib in Resources */,
 				A55FF2121F5A21BA00B0B6DF /* LaunchScreen.storyboard in Resources */,
 				A55FF20F1F5A21BA00B0B6DF /* Assets.xcassets in Resources */,
 				A55FF20D1F5A21BA00B0B6DF /* Main.storyboard in Resources */,
@@ -262,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A524FCEE1F6746B30040AC81 /* RGBViewController.swift in Sources */,
 				A55FF20A1F5A21BA00B0B6DF /* ViewController.swift in Sources */,
 				A55FF2081F5A21BA00B0B6DF /* AppDelegate.swift in Sources */,
 			);
@@ -516,6 +524,7 @@
 				A55FF22E1F5A21BA00B0B6DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A55FF22F1F5A21BA00B0B6DF /* Build configuration list for PBXNativeTarget "InstaEdgeTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +533,7 @@
 				A55FF2311F5A21BA00B0B6DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A55FF2321F5A21BA00B0B6DF /* Build configuration list for PBXNativeTarget "InstaEdgeUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +542,7 @@
 				A55FF2341F5A21BA00B0B6DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
