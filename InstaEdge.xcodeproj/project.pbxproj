@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		A524FCEE1F6746B30040AC81 /* RGBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A524FCEC1F6746B30040AC81 /* RGBViewController.swift */; };
 		A524FCEF1F6746B30040AC81 /* RGBViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A524FCED1F6746B30040AC81 /* RGBViewController.xib */; };
+		A55E075C1F6F1E8500A3D5B4 /* FilterTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55E075B1F6F1E8500A3D5B4 /* FilterTableViewController.swift */; };
+		A55E075E1F6F1F7100A3D5B4 /* FilterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55E075D1F6F1F7100A3D5B4 /* FilterTableViewCell.swift */; };
 		A55FF2081F5A21BA00B0B6DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */; };
 		A55FF20A1F5A21BA00B0B6DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55FF2091F5A21BA00B0B6DF /* ViewController.swift */; };
 		A55FF20D1F5A21BA00B0B6DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A55FF20B1F5A21BA00B0B6DF /* Main.storyboard */; };
@@ -38,6 +40,8 @@
 /* Begin PBXFileReference section */
 		A524FCEC1F6746B30040AC81 /* RGBViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RGBViewController.swift; sourceTree = "<group>"; };
 		A524FCED1F6746B30040AC81 /* RGBViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RGBViewController.xib; sourceTree = "<group>"; };
+		A55E075B1F6F1E8500A3D5B4 /* FilterTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FilterTableViewController.swift; path = ../FilterTableViewController.swift; sourceTree = "<group>"; };
+		A55E075D1F6F1F7100A3D5B4 /* FilterTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterTableViewCell.swift; sourceTree = "<group>"; };
 		A55FF2041F5A21BA00B0B6DF /* InstaEdge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaEdge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A55FF2091F5A21BA00B0B6DF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,9 +105,11 @@
 		A55FF2061F5A21BA00B0B6DF /* InstaEdge */ = {
 			isa = PBXGroup;
 			children = (
+				A55E075B1F6F1E8500A3D5B4 /* FilterTableViewController.swift */,
 				A55FF2071F5A21BA00B0B6DF /* AppDelegate.swift */,
 				A55FF2091F5A21BA00B0B6DF /* ViewController.swift */,
 				A55FF20B1F5A21BA00B0B6DF /* Main.storyboard */,
+				A55E075D1F6F1F7100A3D5B4 /* FilterTableViewCell.swift */,
 				A524FCEC1F6746B30040AC81 /* RGBViewController.swift */,
 				A524FCED1F6746B30040AC81 /* RGBViewController.xib */,
 				A55FF20E1F5A21BA00B0B6DF /* Assets.xcassets */,
@@ -272,6 +278,8 @@
 				A524FCEE1F6746B30040AC81 /* RGBViewController.swift in Sources */,
 				A55FF20A1F5A21BA00B0B6DF /* ViewController.swift in Sources */,
 				A55FF2081F5A21BA00B0B6DF /* AppDelegate.swift in Sources */,
+				A55E075C1F6F1E8500A3D5B4 /* FilterTableViewController.swift in Sources */,
+				A55E075E1F6F1F7100A3D5B4 /* FilterTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
