@@ -57,92 +57,14 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "InstaEdge/RGBViewController.swift"
-            timestampString = "526922829.359065"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "RGBViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "InstaEdge.RGBViewController.imageToEdit.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
-                  moduleName = "InstaEdge"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/markmurtagh/Documents/workspace/InstaEdge/InstaEdge/RGBViewController.swift"
-                  timestampString = "526922878.758337"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "40">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "InstaEdge.RGBViewController.imageToEdit.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
-                  moduleName = "InstaEdge"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/markmurtagh/Documents/workspace/InstaEdge/InstaEdge/RGBViewController.swift"
-                  timestampString = "526922878.761244"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "52">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "InstaEdge.RGBViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; InstaEdge.RGBViewController"
-                  moduleName = "InstaEdge"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/markmurtagh/Documents/workspace/InstaEdge/InstaEdge/RGBViewController.swift"
-                  timestampString = "526922878.763653"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "76">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "InstaEdge.RGBViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;InstaEdge.RGBViewController&gt;"
-                  moduleName = "InstaEdge"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/markmurtagh/Documents/workspace/InstaEdge/InstaEdge/RGBViewController.swift"
-                  timestampString = "526922878.765252"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "36">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "InstaEdge/ViewController.swift"
             timestampString = "527378373.77481"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "109"
             endingLineNumber = "109"
-            landmarkName = "ViewController"
-            landmarkType = "4">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -152,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FilterTableViewController.swift"
-            timestampString = "527379112.447947"
+            timestampString = "527547456.125492"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "117"
-            endingLineNumber = "117"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
